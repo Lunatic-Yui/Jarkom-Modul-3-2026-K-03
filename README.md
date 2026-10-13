@@ -1,11 +1,11 @@
 # JARKOM-MODUL-3-2026-K-03
 
-## Anggota Kelompok K-03
+## Member
 
-| Nama | NRP | Pembagian Tugas |
-| --- | --- | --- |
-| **Yovi Prayudya Rizky Ramadhani** | 5027251107 | Soal Nomor 1 - 3 & Soal Nomor 11 - 12 |
-| **Dafa Ridho Zhafif** | 5027251129 | Soal Nomor 4 - 10 |
+| Nama                      | NRP        | Pembagian Kerja |
+| ------------------------- | ---------- | --------------- |
+| Dafa Ridho Zhafif         | 5027251129 | No 1 - 12       |
+| Yovi Prayudya Rizky Ramadhani | 5027251107 | No 13 - 20      |
 
 ---
 
